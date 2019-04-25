@@ -15,7 +15,7 @@ Repository to play and create projects related to machine learning and learn mac
 8. [Machine learning with python from tutorials point](https://www.tutorialspoint.com/machine_learning_with_python/index.htm) 
 
 ##### Machine learning, deep learning and related books :
-1. Freely available online [deep learning book](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+1. The [Deep Learning textbook](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville, is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The **online version of the book is now complete and will remain available online for free**. 
 
 ##### Get started with:
 1. [Learn Machine Learning in 3 Months (with curriculum)](https://www.youtube.com/watch?v=Cr6VqTRO1v0) from Siraj Raval.
