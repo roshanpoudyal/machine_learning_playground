@@ -19,4 +19,5 @@ Repository to play and create projects related to machine learning and learn mac
 
 ##### Get started with:
 1. [Learn Machine Learning in 3 Months (with curriculum)](https://www.youtube.com/watch?v=Cr6VqTRO1v0) from Siraj Raval.
+    - Followed by his [Learn Deep Learning in 6 Weeks](https://www.youtube.com/watch?v=_qjNH1rDLm0).
 2. [Curated path on how to get started with machine learning](https://machinelearningmastery.com/start-here/).
