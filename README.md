@@ -16,4 +16,5 @@ Repository to play and create projects related to machine learning and learn mac
 
 
 ##### Get started with:
-1. [Curated path on how to get started with machine learning](https://machinelearningmastery.com/start-here/).
+1. [Learn Machine Learning in 3 Months (with curriculum)](https://www.youtube.com/watch?v=Cr6VqTRO1v0) from Siraj Raval.
+2. [Curated path on how to get started with machine learning](https://machinelearningmastery.com/start-here/).
