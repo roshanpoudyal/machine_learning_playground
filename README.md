@@ -18,7 +18,7 @@ Repository to play and create projects related to machine learning and learn mac
 1. The [Deep Learning textbook](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville, is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The **online version of the book is now complete and will remain available online for free**. 
 
 ##### Get started with:
-1. Do this [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) to get an overview on machine learning steps.
+1. Do this tutorial on [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) to get an overview on machine learning steps.
 2. [Curated path on how to get started with machine learning](https://machinelearningmastery.com/start-here/).
     - Go through all the steps from Foundations to advanced.
     - They have nice sections in Foundations as well like [Applied Machine Learning Process](https://machinelearningmastery.com/start-here/#process).
