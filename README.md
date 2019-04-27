@@ -12,6 +12,7 @@ Repository to play and create projects related to machine learning and learn mac
 5. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) is a free online book. The book will teach you about:
     - Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data.
     - Deep learning, a powerful set of techniques for learning in neural networks.
+    - Book has exercises in between chapters to pratice and challange yourselves.
     - A simple handwritten digit recognition problem solving with neural networks.
     - Just as a mention : there is a [video playlist about neural networks from Sebastian League which borrows inspiration from this very website](https://www.youtube.com/playlist?list=PLFt_AvWsXl0frsCrmv4fKfZ2OQIwoUuYO). It has nice visualization of neural network and its concepts.  
 6. [deeplearning.net](http://deeplearning.net/) website is intended to host a variety of resources and pointers to information about Deep Learning. In these pages you will find.
