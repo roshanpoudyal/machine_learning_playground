@@ -23,6 +23,13 @@ Repository to play and create projects related to machine learning and learn mac
 ##### Machine learning, deep learning and related books :
 1. The [Deep Learning textbook](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville, is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The **online version of the book is now complete and will remain available online for free**. 
 
+
+##### Resources on Mathematics for machine learning and AI :
+1. **MIT OCW** open source courses on :
+    1. [Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8), by Gilbert Strang, is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
+    2. [Computational Science & Engineering I](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C), by Gilbert Strang, provides a review of linear algebra, including applications to networks, structures, and estimation, Lagrange multipliers. Also covered are: differential equations of equilibrium; Laplace's equation and potential flow; boundary-value problems; minimum principles and calculus of variations; Fourier series; discrete Fourier transform; convolution; and applications.
+    3. [Introduction to Computational Thinking and Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) - provides students with an understanding of the role computation can play in solving problems.
+
 ##### Get started with:
 1. Complete the book and its digit recognition exercise on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/).
     - You can follow this [video playlist about neural networks from Sebastian League which borrows inspiration from this very website](https://www.youtube.com/playlist?list=PLFt_AvWsXl0frsCrmv4fKfZ2OQIwoUuYO) for more tips.
