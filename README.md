@@ -37,7 +37,9 @@ Repository to play and create projects related to machine learning and learn mac
     
 
 ##### Get started with:
-1. Get started with [new project](https://www.kaggle.com/new-project) and [courses](https://www.kaggle.com/learn/overview) on data science and machine learning in [kaggle](https://www.kaggle.com/).
+1. Get started with [courses](https://www.kaggle.com/learn/overview) on data science and machine learning in [kaggle](https://www.kaggle.com/).
+    - After courses you can [start a new project](https://www.kaggle.com/new-project) or [explore projects](https://www.kaggle.com/explore-projects) created by others.
+    - Or, better, join [kaggle competitions](https://www.kaggle.com/challenge-yourself) and challange yourself with taking part in real world machine learning problem solving.
 2. Complete the book and its digit recognition exercise on [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/).
     - You can follow this [video playlist about neural networks from Sebastian League which borrows inspiration from this very website](https://www.youtube.com/playlist?list=PLFt_AvWsXl0frsCrmv4fKfZ2OQIwoUuYO) for more tips.
 3. Do this tutorial on [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) to get an overview on machine learning steps.
