@@ -34,6 +34,8 @@ Repository to play and create projects related to machine learning and learn mac
     - You can either [start a new project](https://www.kaggle.com/new-project) by exploring and forking one of their starter projects or [explore projects](https://www.kaggle.com/explore-projects) created by others.
     - You can also join [kaggle competitions](https://www.kaggle.com/challenge-yourself) where you can challange yourself with taking part in real world machine learning problem solving.
     - They also have a number of [publicly available datasets](https://www.kaggle.com/datasets) which you can practice with.
+3. EdX and Coursera : online learning platforms
+    - [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) from deeplearning(dot)ai in coursera.
     
 
 ##### Get started with:
