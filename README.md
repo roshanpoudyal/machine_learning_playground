@@ -36,6 +36,7 @@ Repository to play and create projects related to machine learning and learn mac
     - They also have a number of [publicly available datasets](https://www.kaggle.com/datasets) which you can practice with.
 3. EdX and Coursera : online learning platforms
     - [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) from deeplearning(dot)ai in coursera.
+    - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) from deeplearning(dot)ai in coursera.
     
 
 ##### Get started with:
